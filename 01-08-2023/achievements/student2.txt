@@ -1,3 +1,0 @@
-name: Abhinav Sharma
-id_no: 384
-achievement: Got shortlisted in Flipkart-GRID Challenge

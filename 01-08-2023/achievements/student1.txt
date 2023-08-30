@@ -1,3 +1,0 @@
-name: Kunal Kumar Sahoo
-id_no: 100
-achievement: Won 1.5 lakhs rupees in Robofest

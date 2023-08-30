@@ -1,3 +1,0 @@
-name: Jay Shah
-id_no: 75
-achievement: Selected for NCSU Scholarship
